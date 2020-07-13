@@ -1,16 +1,34 @@
-# firebaseauthproject
+# Flutter Firebase Auth With Bloc (Login, Register)
 
-A new Flutter application.
+### Youtube
+[![Flutter Firebase Auth](./readme/youtube.png)](https://youtu.be/xGqMgHnDgb8)
 
-## Getting Started
+### Packages
+* flutter_bloc
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+A Flutter package that helps implement the BLoC pattern.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://pub.dev/packages/flutter_bloc
+
+* firebase_auth
+
+
+A Flutter plugin to use the Firebase Authentication API.
+
+
+https://pub.dev/packages/firebase_auth
+
+* equatable 
+
+
+Simplify Equality Comparisons
+
+
+https://pub.dev/packages/equatable
+
+
+
+
+
